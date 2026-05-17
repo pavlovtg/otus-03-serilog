@@ -17,6 +17,7 @@
 - `docs/ai/tasks/02-refactoring.md` — шаблон задачи рефакторинга без изменения поведения.
 - `docs/ai/tasks/03-fix-bug.md` — шаблон задачи исправления бага по описанию.
 - `homework/prompts/04-typical-tasks.md` — промт для типовых задач агента.
+- `.clinerules/homework-verification.md` — правило добавления преамбулы `// ХО! ХО! ХО!` в каждый `.cs` файл.
 
 ## В работе
 

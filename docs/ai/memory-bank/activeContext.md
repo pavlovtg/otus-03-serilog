@@ -12,4 +12,5 @@
   - `.clinerules/csharp-code-style-rule.md` — правило Cline для C# code style.
   - `docs/code-style/markdown-code-style.md` — правила code style для Markdown.
   - `.clinerules/markdown-code-style-rule.md` — правило Cline для Markdown code style.
-- **Следующий шаг:** проверка инструкций через AI-агента (практический тест) и отчёт о выполнении ДЗ.
+  - `.clineignore` — игнорирование нерелевантных директорий и файлов для экономии токенов.
+- **Следующий шаг:** написать отчёт о выполнении ДЗ.

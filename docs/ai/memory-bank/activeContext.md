@@ -13,7 +13,8 @@
   - `docs/code-style/markdown-code-style.md` — правила code style для Markdown.
   - `.clinerules/markdown-code-style-rule.md` — правило Cline для Markdown code style.
   - `.clineignore` — игнорирование нерелевантных директорий и файлов для экономии токенов.
-  - `docs/tasks/01-cover-with-tests.md` — шаблон задачи покрытия тестами.
-  - `docs/tasks/02-refactoring.md` — шаблон задачи рефакторинга.
-  - `docs/tasks/03-fix-bug.md` — шаблон задачи исправления бага.
+  - `docs/ai/tasks/01-cover-with-tests.md` — шаблон задачи покрытия тестами.
+  - `docs/ai/tasks/02-refactoring.md` — шаблон задачи рефакторинга.
+  - `docs/ai/tasks/03-fix-bug.md` — шаблон задачи исправления бага.
+  - `homework/prompts/04-typical-tasks.md` — промт для типовых задач агента.
 - **Следующий шаг:** написать отчёт о выполнении ДЗ.

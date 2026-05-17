@@ -13,9 +13,10 @@
 - `.clinerules/markdown-code-style-rule.md` — правило Cline использовать Markdown code style.
 - `homework/prompts/03-agent-ignore-rules.md` — промт для настройки `.clineignore`.
 - `.clineignore` — игнорирование `results/`, `assets/`, `bin/`, `obj/`, бинарных файлов.
-- `docs/tasks/01-cover-with-tests.md` — шаблон задачи покрытия модуля тестами.
-- `docs/tasks/02-refactoring.md` — шаблон задачи рефакторинга без изменения поведения.
-- `docs/tasks/03-fix-bug.md` — шаблон задачи исправления бага по описанию.
+- `docs/ai/tasks/01-cover-with-tests.md` — шаблон задачи покрытия модуля тестами.
+- `docs/ai/tasks/02-refactoring.md` — шаблон задачи рефакторинга без изменения поведения.
+- `docs/ai/tasks/03-fix-bug.md` — шаблон задачи исправления бага по описанию.
+- `homework/prompts/04-typical-tasks.md` — промт для типовых задач агента.
 
 ## В работе
 

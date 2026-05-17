@@ -1,7 +1,7 @@
 # Active Context
 
 - **Текущая задача:** ДЗ — добавить AI-инструкции для Cline в репозиторий форка Serilog.
-- **Фокус:** создание `.clinerules/` (правила, скиллы) и `docs/ai/memory-bank/` (memory bank).
+- **Фокус:** написание отчёта о выполнении ДЗ.
 - **Выполнено:**
   - `.clinerules/skills/create-prompt-from-template/` — скилл создания промптов.
   - `docs/ai/memory-bank/` — инициализирован.
@@ -13,4 +13,7 @@
   - `docs/code-style/markdown-code-style.md` — правила code style для Markdown.
   - `.clinerules/markdown-code-style-rule.md` — правило Cline для Markdown code style.
   - `.clineignore` — игнорирование нерелевантных директорий и файлов для экономии токенов.
+  - `docs/tasks/01-cover-with-tests.md` — шаблон задачи покрытия тестами.
+  - `docs/tasks/02-refactoring.md` — шаблон задачи рефакторинга.
+  - `docs/tasks/03-fix-bug.md` — шаблон задачи исправления бага.
 - **Следующий шаг:** написать отчёт о выполнении ДЗ.

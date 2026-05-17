@@ -1,6 +1,6 @@
 # Active Context
 
-- **Текущая задача:** ДЗ — добавить AI-инструкции для Cline в репозиторий форка Serilog.
+- **Текущая задача:** рефакторинг `Serilog.Core.Logger` по правилам code style.
 - **Фокус:** написание отчёта о выполнении ДЗ.
 - **Выполнено:**
   - `.clinerules/skills/create-prompt-from-template/` — скилл создания промптов.
@@ -18,4 +18,6 @@
   - `docs/ai/tasks/03-fix-bug.md` — шаблон задачи исправления бага.
   - `homework/prompts/04-typical-tasks.md` — промт для типовых задач агента.
   - `.clinerules/homework-verification.md` — правило добавления преамбулы `// ХО! ХО! ХО!` в каждый `.cs` файл.
+  - `src/Serilog/Core/Logger.cs` — рефакторинг: преамбула + конвертация пробелов в табы.
+  - `test/Serilog.Tests/Core/LoggerTests.cs` — рефакторинг: преамбула + конвертация пробелов в табы.
 - **Следующий шаг:** написать отчёт о выполнении ДЗ.

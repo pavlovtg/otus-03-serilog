@@ -4,5 +4,12 @@
 - **Фокус:** создание `.clinerules/` (правила, скиллы) и `docs/ai/memory-bank/` (memory bank).
 - **Выполнено:**
   - `.clinerules/skills/create-prompt-from-template/` — скилл создания промптов.
-  - `docs/ai/memory-bank/` — инициализирован (текущий шаг).
-- **Следующий шаг:** создать основные AI-инструкции (контекст, правила, примеры задач) согласно `homework/assignment.md`.
+  - `docs/ai/memory-bank/` — инициализирован.
+  - `.clinerules/memory-bank.md` — правило чтения/обновления memory bank.
+  - `.clinerules/language.md` — правило языка взаимодействия.
+  - `.clinerules/prompts.md` — правило формата промтов.
+  - `docs/code-style/csharp-code-style.md` — правила code style для C#.
+  - `.clinerules/csharp-code-style-rule.md` — правило Cline для C# code style.
+  - `docs/code-style/markdown-code-style.md` — правила code style для Markdown.
+  - `.clinerules/markdown-code-style-rule.md` — правило Cline для Markdown code style.
+- **Следующий шаг:** проверка инструкций через AI-агента (практический тест) и отчёт о выполнении ДЗ.

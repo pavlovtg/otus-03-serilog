@@ -1,0 +1,24 @@
+# Active Context
+
+- **Текущая задача:** завершено — отчёт о выполнении ДЗ написан.
+- **Фокус:** все задачи ДЗ выполнены.
+- **Выполнено:**
+  - `.clinerules/skills/create-prompt-from-template/` — скилл создания промптов.
+  - `docs/ai/memory-bank/` — инициализирован.
+  - `.clinerules/memory-bank.md` — правило чтения/обновления memory bank.
+  - `.clinerules/language.md` — правило языка взаимодействия.
+  - `.clinerules/prompts.md` — правило формата промтов.
+  - `docs/code-style/csharp-code-style.md` — правила code style для C#.
+  - `.clinerules/csharp-code-style-rule.md` — правило Cline для C# code style.
+  - `docs/code-style/markdown-code-style.md` — правила code style для Markdown.
+  - `.clinerules/markdown-code-style-rule.md` — правило Cline для Markdown code style.
+  - `.clineignore` — игнорирование нерелевантных директорий и файлов для экономии токенов.
+  - `docs/ai/tasks/01-cover-with-tests.md` — шаблон задачи покрытия тестами.
+  - `docs/ai/tasks/02-refactoring.md` — шаблон задачи рефакторинга.
+  - `docs/ai/tasks/03-fix-bug.md` — шаблон задачи исправления бага.
+  - `homework/prompts/04-typical-tasks.md` — промт для типовых задач агента.
+  - `.clinerules/homework-verification.md` — правило добавления преамбулы `// ХО! ХО! ХО!` в каждый `.cs` файл.
+  - `src/Serilog/Core/Logger.cs` — рефакторинг: преамбула + конвертация пробелов в табы.
+  - `test/Serilog.Tests/Core/LoggerTests.cs` — рефакторинг: преамбула + конвертация пробелов в табы.
+  - `homework/report.md` — отчёт о выполнении ДЗ.
+- **Следующий шаг:** нет — ДЗ завершено.
